@@ -1,0 +1,35 @@
+.timer_container {
+	width: 410px;
+	margin: 50px auto 0;
+	border: 1px solid black;
+	font-family: 'Lucida Sans Unicode';
+}
+.timer {
+	text-align: center;
+	font-size: 90px;
+	line-height: 90px;
+}
+.milliseconds {
+	text-align: right;
+	margin-right: 20px;
+}
+
+.button_container {
+	width: 410px;
+	margin: 30px auto 0;
+}
+.btn {
+	width: 150px;
+	font-size: 30px;
+}
+.button-start {
+	float: left;
+}
+.button-pause {
+	display: none;
+	float: left;
+}
+
+.button-stop {
+	float: right;
+}
